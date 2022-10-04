@@ -16,3 +16,4 @@ let numbersCalculated = secondNumber - firstNumber;
 console.log("numbersCalculated is: ", numbersCalculated);
 
 let lastResume = MyName + space + numbersCalculated;
+console.log("lastResume is: ", lastResume);
